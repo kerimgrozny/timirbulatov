@@ -87,14 +87,14 @@ nav a:focus {
 	min-height:800px;
 }
 .logo h1 a{
-	color:#5ACC42;
-	 font-family:'MavenPro-Bold';
+	color:#fff;
+	 font-family: 'Raleway', sans-serif;
 	 font-size:1.3em;
 	 display:inline-block;
 	 text-decoration:none;
 }
 .header{
-	background:#000;
+	background:#333333;
 	padding:2em 0;
 	text-align:center;
 }
@@ -126,7 +126,7 @@ nav a:focus {
 .banner-info h2{
 	color:#fff;
 	font-size:3em;
-	font-family:'MavenPro-Regular';
+  font-family: 'Poiret One', cursive;
 }
 .banner-form{
 	text-align:center;
@@ -183,7 +183,7 @@ margin-top:1em;
 }
 h3.abt,h3.ser,.gallery h3,.skills h3,.contact h3,.pricing-text h3{
 	text-align:center;
-	font-family:'MavenPro-Bold';
+	font-family: 'Poiret One', cursive;
 	font-size:3em;
 }
 .about-top{
